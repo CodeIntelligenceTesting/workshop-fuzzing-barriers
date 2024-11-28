@@ -1,0 +1,1 @@
+add_fuzzing_example_current_dir()
